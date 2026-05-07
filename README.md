@@ -1,7 +1,6 @@
 # 🏨 playwright-hotel-booking
 
 Projeto de automação de testes para sistema de reserva de hotel, utilizando **Playwright** com **JavaScript**.
-
 Cobre testes **Web (E2E)** e **API (REST)** com padrão Page Object Model (POM).
 
 ---
