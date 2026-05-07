@@ -1,0 +1,14 @@
+{
+  "name": "playwright-hotel-booking",
+  "version": "1.0.0",
+  "description": "Projeto de automação de testes - Restful Booker (Hotel)",
+  "scripts": {
+    "test": "npx playwright test",
+    "test:web": "npx playwright test tests/web",
+    "test:api": "npx playwright test tests/api",
+    "report": "npx playwright show-report"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.44.0"
+  }
+}
