@@ -101,6 +101,10 @@ Para visualizar:
 npm run report
 ```
 
+## 📸 Resultados
+
+![Testes passando](assets/tests-passing.png)
+
 ---
 
 ## 👩‍💻 Autora
